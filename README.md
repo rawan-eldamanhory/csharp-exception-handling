@@ -11,6 +11,7 @@ A simple C# console application demonstrating exception handling using try-catch
 ```text
 That is the final code.
 Index was outside the bounds of the array.
+```
 
 ## Technologies
 - C#
